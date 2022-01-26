@@ -1,3 +1,3 @@
-# rest-with-vanilla-php-website-template
+# vanilla-php-website-template
  
-Simple website in vanilla PHP with rest connection for client side.
+A simple website template in vanilla PHP.
